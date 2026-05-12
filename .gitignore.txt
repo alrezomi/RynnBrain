@@ -1,0 +1,14 @@
+hf_cache/
+models/
+outputs/
+videos/
+__pycache__/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.safetensors
+*.bin
+*.pt
+*.pth
+.ipynb_checkpoints/

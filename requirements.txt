@@ -3,9 +3,13 @@ torchvision
 torchaudio
 transformers
 accelerate
-datasets
+safetensors
+huggingface_hub
+hf_transfer
 sentencepiece
-opencv-python
+pillow
 matplotlib
-torchcodec
-jupyter
+opencv-python
+datasets
+notebook
+ipykernel

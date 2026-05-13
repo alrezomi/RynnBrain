@@ -1,0 +1,8 @@
+venv/
+venv310/
+hf_cache/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+data/
